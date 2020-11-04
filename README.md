@@ -67,7 +67,7 @@ be in normal mode (orange) or advanced mode (purple).
 
 <div align="center">
     <p>Login animation</p>
-    <img src="demos/login.gif" alt="Login animation" width="600"/>
+    <img src="demos/login.gif" alt="Login animation" width="565" style="border-radius: 5px; box-shadow: 0 0 10px black;"/>
     <br></br>
     <p>User Profile and Advanced Mode</p>
     <img src="demos/advanced-user-profile.png" alt="User Profile" width="600"/>
