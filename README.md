@@ -13,6 +13,7 @@
     <h2 style="font-size: 30px; margin: 0px;">
         Dean Stratakos
     </h2>
+    <h3>June 10, 2020</h3>
     A photo sharing web application for my Stanford 
     <a href=https://web.stanford.edu/class/cs142/projects.html>CS 142</a>
     final project.
