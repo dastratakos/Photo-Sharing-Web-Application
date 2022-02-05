@@ -154,7 +154,7 @@ npm run build:w
 
 ### Project 6
 #### Thurs, May 21, 2020
-* [x] The web server not uses a MongoDB database instead.
+* [x] The web server uses a MongoDB database instead.
 * [x] The [axios](https://github.com/axios/axios) npm package is used to
       support RESTful API.
 * [x] There is an advanced mode that can be toggled on and off. Advanced mode
